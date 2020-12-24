@@ -1,0 +1,15 @@
+# Defining a Network 
+A Network is nothing more than 2 or more computers connected to each other by cable or by a wireless radio connection So that they can exchange information between them.
+> SNEAKERNET - A network is a way through which computers share resources but there are another ways through which a computer can share resources with other computers. [sneakernet](harshrajbedi/Android-Projects)
+
+> you can create a network by using cables but cables cause mess around your table so you can make your network wireless, computers use network interface cards called [NIC](https://en.wikipedia.org/wiki/Network_interface_controller) card for making network wired, for wireless they use wireless network interface controller [WNIC](https://en.wikipedia.org/wiki/Wireless_network_interface_controller).
+
+## Some Terms to Remember 
+1. LAN - Networks are often called LANs, [Local Area Network](https://en.wikipedia.org/wiki/Local_area_network).
+2. On the Network - Any computer connected to network is said to be "on the network".
+3. Node - It is in a Network as the communication end point or a redistribution point.
+4. Online,Offline - When a computer is turned on and can access the network, it is said to be online if not it is said to be offline.
+5. Up,Down - When a computer is turned on and working properly, it’s up. When a computer is turned off, broken, or being serviced, it’s down. Turning off a computer is sometimes called "taking it down". Turning it back on is sometimes called "bringing it up".
+6. Local,Remote - A resource such as a disk drive is local if it resides in your computer. It’s remote if it resides in another computer somewhere else on your network.
+7. Internet - The Internet is a huge amalgamation of computer networks strewn about the entire planet. Networking the computers in your home or office so that they can share information with one another and connecting your computer to the worldwide Internet are two separate but related tasks.
+
