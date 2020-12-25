@@ -7,12 +7,12 @@ Network topology is the arrangement of the elements (links, nodes, etc.) of a co
 `logical topology illustrates how data flows within a network. A network’s physical topology is a particular concern of the physical layer of the OSI model.`
 
 ## Links between Topologies
-    ### Wired Technologies - 
+### Wireless Technologies -
 Coaxial Cables
 Ribbon Cables
 Twisted Cables
 Optical Fiber
-    ### Wireless Technologies -
+### Wireless Technologies -
 Microwave
 Communication Sattelite
 Radio teleommunication
