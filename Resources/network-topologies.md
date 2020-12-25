@@ -8,14 +8,14 @@ Network topology is the arrangement of the elements (links, nodes, etc.) of a co
 
 ## Links between Topologies
 ### Wireless Technologies -
-Coaxial Cables,
-Ribbon Cables,
-Twisted Cables,
-Optical Fiber
+[Coaxial Cables](https://en.wikipedia.org/wiki/Coaxial_cable),
+[Ribbon Cables](https://en.wikipedia.org/wiki/Ribbon_cable),
+[Twisted Cables](https://en.wikipedia.org/wiki/Twisted_pair),
+[Optical Fiber](https://en.wikipedia.org/wiki/Optical_fiber).
 ### Wireless Technologies -
-Microwave,
-Communication Sattelite,
+[Microwave](https://en.wikipedia.org/wiki/Microwave),
+[Communication Sattelite](https://en.wikipedia.org/wiki/Communications_satellite),
 Radio teleommunication,
-Spread Spectrum Technologies,
-Free Space Optical Communication
+[Spread Spectrum Technologies](https://en.wikipedia.org/wiki/Spread_spectrum),
+[Free Space Optical Communication](https://en.wikipedia.org/wiki/Free-space_optical_communication).
 
